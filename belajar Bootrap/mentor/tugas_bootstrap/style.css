@@ -1,0 +1,20 @@
+.logo {
+    width: 200px !important;
+}
+
+.nav-item a {
+    color: #000;
+}
+
+.text-white .nav-pills .nav-link .active a {
+    color: #FFF !important;
+}
+
+.gambar{
+    width: 100%;
+    margin: auto;
+}
+
+.card-title{
+    color: blue;
+}
